@@ -1,4 +1,4 @@
--> I’m Stoyan Ivanov
--> I’m interested in Coding & Gaming & Travelling
--> I’m currently learning Python @ SoftUni
--> Education: Bachelor's of telecomunnications and management at Plovdiv University "Paisii Hilendarski"
+Hey, I’m Stoyan Ivanov!
+I take interest in coding & gaming & travelling.
+I’m currently learning Python @ SoftUni.
+I graduated with a Bachelor of Telecomunnications and Management in Plovdiv University "Paisii Hilendarski".
