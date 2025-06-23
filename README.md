@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **stoyanivanovmail@gmail.com**
 
-- ⚡ Fun fact **I enjoy travelling and playing games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stoyan-ivanov-73378b288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stoyan-ivanov-73378b288" height="30" width="40" /></a>
